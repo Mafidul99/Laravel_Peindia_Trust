@@ -1,0 +1,84 @@
+.btnsubmit {
+    padding: 15px 30px;
+    background-color: #008000;
+    border: none;
+}
+
+.ptext {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.refund {
+    color: #008000;
+    font-weight: 500;
+}
+
+.refund:hover {
+    color: red;
+    font-weight: 500;
+}
+
+.hear1 {
+    font-size: 19px;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.btnsite {
+    display: block;
+    border: 1px solid #000000;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 20px;
+    box-shadow: 2px 2px 19px -7px #818181;
+    border-radius: 8px;
+}
+
+btnsite:hover {
+    background-color: #000000 !important;
+    color: #ffffff;
+    border-radius: 8px;
+    display: block;
+}
+
+.netbtn {
+    padding: 10px 15px;
+    text-align: center;
+}
+
+.widget-title {
+    padding-bottom: 10px !important;
+    font-weight: 800;
+    font-size: 15px;
+}
+
+.imagess {
+    width: 170px;
+    height: 170px;
+}
+
+.ccpages_excerpt {
+    font-size: 18px;
+    color: #000000;
+    font-weight: 600;
+    text-align: center;
+}
+
+.ccpages_more {
+    background-color: #008000;
+    text-align: center;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+}
+
+.ccpages_more a {
+    font-size: 16px;
+    color: #ffffff;
+}
+
+.post-image {
+    width: 120px;
+    height: auto;
+}
